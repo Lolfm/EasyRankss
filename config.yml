@@ -1,0 +1,10 @@
+# Here you can change the Colors of the Ranks
+rank:
+  owner: "&4"
+  admin: "&4"
+  supporter: "&6"
+  youtuber: "&5"
+  moderator: "&1"
+  developer: "&3"
+  builder: "&2"
+  guest: "&7"

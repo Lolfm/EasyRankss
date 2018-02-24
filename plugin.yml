@@ -1,0 +1,23 @@
+name: EasyRankss
+author: Lolfm
+version: 1.0
+main: at.lolfm.easyrankss.main.MainClass
+permissions:
+  ranks.*:
+    description: doesnt make sense
+  ranks.mod:
+    description: For the Moderators
+  ranks.dev:
+    description: For the Devs
+  ranks.owner:
+    description: For the Owners
+  ranks.admin:
+    description: For the Admins
+  ranks.supporter:
+    description: For the Supporters
+  ranks.youtuber:
+    description: For the Youtubers
+  ranks.builder:
+    description: For the Builders
+  ranks.default:
+    description: Default for normal Members
